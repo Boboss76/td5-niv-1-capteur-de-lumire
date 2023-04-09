@@ -4,4 +4,4 @@
         . . # . . 
         . # . # . 
         # . . . #
-        `</field></block></statement></block><block type="device_forever" id="H8$UeH`i%]gV,870#;ED" x="224" y="12"></block></xml>
+        `</field></block></statement></block><block type="device_forever" id="H8$UeH`i%]gV,870#;ED" x="224" y="12"><statement name="HANDLER"><block type="device_plot_bar_graph" id="rN4|z?^p-WWN:$L]/#dw"><value name="value"><shadow type="math_number" id="ki6nkm~1Dp=Xf({5QU3|"><field name="NUM">0</field></shadow><block type="device_get_light_level" id="8vrM+/W^{{gn^UO%$!ql"></block></value><value name="high"><shadow type="math_number" id="!1Bmr]j8E}T:d:|m+*fz"><field name="NUM">255</field></shadow></value></block></statement></block></xml>
